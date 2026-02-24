@@ -5,6 +5,6 @@ To Play:
 
 <ul>
   <li>Open your command prompt.</li>
-  <li>Type python main.py and Enjoy the game!</li>
+  <li>Type python main.py or py -3 main.py and Enjoy the game!</li>
 </ul>
 
